@@ -1,0 +1,1 @@
+g++ -Wall -Werror -Wextra main.cpp flightMap.cpp type.cpp -o project4.exe
